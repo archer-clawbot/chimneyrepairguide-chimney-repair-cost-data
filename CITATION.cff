@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+title: "Chimney Repair Cost Register (US, published prices, October 2026)"
+type: dataset
+authors:
+  - name: "Chimney Repair Guide"
+    website: "https://chimneyrepairguide.com/"
+doi: "10.5281/zenodo.23354319"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23354319"
+  - type: url
+    value: "https://zenodo.org/records/23354319"
+url: "https://chimneyrepairguide.com/chimney-repair-cost-data/"
+repository: "https://github.com/archer-clawbot/chimneyrepairguide-chimney-repair-cost-data"
+license: CC-BY-4.0
+date-released: 2026-10-21
